@@ -1,0 +1,3 @@
+Create Database = CREATE DATABASE (NAME)
+Delete Database = DROP DATABASE `NAME`
+Show Database = SHOW DATABASES
