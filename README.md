@@ -25,8 +25,8 @@ CREATE DATABASE database_name;
 CREATE DATABASE db_1;
 ```
 
-![Create Database](CMDCREATE.jpeg)
-![Database Created](DB_Created.jpeg)
+![Create Database](assets/CMDCREATE.jpeg)
+![Database Created](assets/DB_Created.jpeg)
 
 ---
 
@@ -44,8 +44,8 @@ DROP DATABASE database_name;
 DROP DATABASE db_1;
 ```
 
-![Delete Database](CMDDELETE.jpeg)
-![Database Deleted](DB_Deleted.jpeg)
+![Delete Database](assets/CMDDELETE.jpeg)
+![Database Deleted](assets/DB_Deleted.jpeg)
 
 ⚠️ **Warning:** This operation permanently deletes the database and all its data!
 
@@ -65,8 +65,8 @@ SHOW DATABASES;
 SHOW DATABASES;
 ```
 
-![List Databases](DB_Listed.jpeg)
-![Database List](DBLIST.jpeg)
+![List Databases](assets/DB_Listed.jpeg)
+![Database List](assets/DBLIST.jpeg)
 
 **Common databases you'll see:**
 - `information_schema` - System metadata
